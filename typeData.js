@@ -35,3 +35,10 @@ console.log(products);
 // const typeData = typeof(products)
 
 // saya menambahkan comment di typedata
+
+// saya menambahkan comment di typedataasdasd
+
+// git init
+// git add . 
+// git commit -m "add variable"
+// git push origin master
