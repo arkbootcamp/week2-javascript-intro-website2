@@ -34,3 +34,4 @@ console.log(products);
 
 // const typeData = typeof(products)
 
+// saya menambahkan comment di typedata
